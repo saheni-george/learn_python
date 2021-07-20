@@ -1,3 +1,3 @@
-# Notes on Pythno
+# Notes on Python
 
 1. 
